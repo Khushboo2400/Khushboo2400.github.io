@@ -1,0 +1,6 @@
+<html>
+<php?
+$a="sarthak"
+echo $a
+?>
+</html>

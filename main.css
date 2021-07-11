@@ -1,0 +1,17 @@
+html{
+height:100%;
+}
+body {
+background:pink;
+border:10px dashed red;height:100%
+background-image: url(night.jpeg);
+background-size:cover;
+ background:url(your-image.jpg) top right no-repeat; background-attachment:fixed; 
+
+header{
+
+height:100%;
+background-size:cover;
+margin-bottom:50px
+}
+
